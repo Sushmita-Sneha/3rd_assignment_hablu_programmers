@@ -162,7 +162,9 @@ body {
   width: 100%;
   z-index: -1;
 }
-.hero-heading{
+  .hero-heading{
+  font-size: 3rem;
+  color: white;
     @media (width < 320px) {
     visibility: hidden;
   }
